@@ -117,15 +117,11 @@ predictions = model.predict(X_test)
 print("Accuracy:", accuracy_score(y_test, predictions))
 ```
 
----
 
-## ✅ Expected Results
-
-A good beginner accuracy is between **78% and 83%**. Don't worry if you don't hit it right away — the learning process is more important than the score!
 
 ---
 
-## 💡 What You'll Learn
+##  Learn
 
 - How to load and explore a real-world dataset
 - How to identify and handle missing data
